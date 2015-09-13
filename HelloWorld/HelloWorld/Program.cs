@@ -10,7 +10,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Yellow World! I made a change.And this is two!");
+            Console.WriteLine("Yellow World! I made a change.And this is two!Three in a row");
         }
     }
 }
